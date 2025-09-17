@@ -6,7 +6,7 @@ Show that by drawing the tree diagram, and
 Calculate the average code word length, entropy, variance, redundancy, and efficiency.
 # Tools Required:
 # Program:
-
+```
 import math
 
 p = [0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25]
@@ -29,6 +29,7 @@ print(f"Efficiency is : {eff * 100}%")
 print(f"Redundancy is : {red}")
 print(f"Variance is : {var}")
 
+```
 
 # Calculation:
 
